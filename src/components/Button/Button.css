@@ -1,0 +1,10 @@
+.button {
+    padding: 5px;
+    border-radius: 2px;
+    border: 0;
+}
+
+.button-primary {
+    background-color: dodgerblue;
+    color: white;
+}
